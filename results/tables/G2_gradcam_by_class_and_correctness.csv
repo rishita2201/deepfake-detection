@@ -1,0 +1,17 @@
+model,true_class,correct,size,mean
+efficientnet_b0,fake,0,3,0.962
+efficientnet_b0,fake,1,90,0.79
+efficientnet_b0,real,0,28,0.706
+efficientnet_b0,real,1,65,0.209
+resnet18,fake,0,4,0.239
+resnet18,fake,1,89,0.691
+resnet18,real,0,15,0.709
+resnet18,real,1,33,0.112
+resnet50,fake,0,5,0.379
+resnet50,fake,1,90,0.9
+resnet50,real,0,16,0.634
+resnet50,real,1,85,0.263
+xception,fake,0,4,0.14
+xception,fake,1,91,0.799
+xception,real,0,15,0.783
+xception,real,1,90,0.163

@@ -1,0 +1,13 @@
+# secrets and data - never commit
+kaggle.json
+.kaggle/
+*.zip
+deepfake-and-real-images/
+deepfake_data/
+# large binaries are published as release assets, not committed
+*.pth
+*.pt
+# python / notebook noise
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store

@@ -1,0 +1,4 @@
+query -> reference,n_queries,pHash dist<=0,pHash dist<=2,pHash dist<=4,pHash dist<=6,pHash dist<=8
+test -> train,10905,56,193,316,467,988
+test -> val,10905,225,598,966,1279,1640
+val -> train,39428,7551,8478,8924,9427,10849

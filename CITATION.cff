@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the paper."
+title: "Evaluating CNN Architectures for Deepfake Image Detection: Accuracy, Robustness, and Calibration"
+authors:
+  - family-names: "Rishita"
+    given-names: "R"
+    affiliation: "Vellore Institute of Technology, Chennai, India"
+  - family-names: "R"
+    given-names: "Elakya"
+    affiliation: "Vellore Institute of Technology, Chennai, India"
+date-released: 2026-10-09
+license: MIT
+repository-code: "https://github.com/<your-username>/<your-repo>"
