@@ -4,7 +4,7 @@ Code, training histories, result tables and figures for the paper
 **"Evaluating CNN Architectures for Deepfake Image Detection: Accuracy, Robustness, and Calibration"**
 (R Rishita, Elakya R; Vellore Institute of Technology, Chennai).
 
-Paper: [link to be added]  |  Model checkpoints: [GitHub Release / Zenodo link to be added]
+Paper: under review  |  Model checkpoints: https://github.com/rishita123/deepfake-detection/releases/tag/v1.0
 
 ## What this repository contains
 | Folder | Content |
